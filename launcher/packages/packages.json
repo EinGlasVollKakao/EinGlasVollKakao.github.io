@@ -1,0 +1,12 @@
+{
+  "minimumVersion" : 1,
+  "packages" : [
+    {
+      "title" : null,
+      "name" : "test1.14.2",
+      "version" : "0.0.1-Snapshot",
+      "location" : "test1.14.2.json",
+      "priority" : 0
+    }
+  ]
+}
